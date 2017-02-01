@@ -1,3 +1,20 @@
+/*
+Implement a program to do the following:
+
+Input: An unsorted array of size n (user input) and fill it with random numbers.
+Output: Sorted array 
+
+Procedure:
+Write three functions separately that the main function calls one after another, 
+where each function sorts the same array using a different algorithm, namely:
+1. Radix sort
+2. Bubble sort
+3. Merge sort
+
+Experiment: Compute the average runtime for each of the three techniques separately, for n = 10^3, 10^6 and 10^7.
+Upload the code and results in a table.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h> // to measure performance of the algo
