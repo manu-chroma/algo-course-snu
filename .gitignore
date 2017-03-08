@@ -1,3 +1,4 @@
+*.pdf
 submission_pdf/
 lab1/*.txt
 a.out
